@@ -1,0 +1,13 @@
+E:\app\valentine.exe
+E:\app\valentine.dll
+E:\app\valentine.deps.json
+E:\app\valentine.runtimeconfig.json
+E:\app\valentine.pdb
+E:\app\System.Data.SqlClient.dll
+E:\app\runtimes\win-arm64\native\sni.dll
+E:\app\runtimes\win-x64\native\sni.dll
+E:\app\runtimes\win-x86\native\sni.dll
+E:\app\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\app\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\app\ULControls.dll
+E:\app\ULControls.pdb

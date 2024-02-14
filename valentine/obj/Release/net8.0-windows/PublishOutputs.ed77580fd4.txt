@@ -1,0 +1,13 @@
+C:\Users\bags4\source\repos\valentine\valentine\bin\Release\net8.0-windows\app.publish\valentine.exe
+C:\Users\bags4\source\repos\valentine\valentine\bin\Release\net8.0-windows\app.publish\valentine.dll
+C:\Users\bags4\source\repos\valentine\valentine\bin\Release\net8.0-windows\app.publish\valentine.deps.json
+C:\Users\bags4\source\repos\valentine\valentine\bin\Release\net8.0-windows\app.publish\valentine.runtimeconfig.json
+C:\Users\bags4\source\repos\valentine\valentine\bin\Release\net8.0-windows\app.publish\valentine.pdb
+C:\Users\bags4\source\repos\valentine\valentine\bin\Release\net8.0-windows\app.publish\System.Data.SqlClient.dll
+C:\Users\bags4\source\repos\valentine\valentine\bin\Release\net8.0-windows\app.publish\runtimes\win-arm64\native\sni.dll
+C:\Users\bags4\source\repos\valentine\valentine\bin\Release\net8.0-windows\app.publish\runtimes\win-x64\native\sni.dll
+C:\Users\bags4\source\repos\valentine\valentine\bin\Release\net8.0-windows\app.publish\runtimes\win-x86\native\sni.dll
+C:\Users\bags4\source\repos\valentine\valentine\bin\Release\net8.0-windows\app.publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bags4\source\repos\valentine\valentine\bin\Release\net8.0-windows\app.publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bags4\source\repos\valentine\valentine\bin\Release\net8.0-windows\app.publish\ULControls.dll
+C:\Users\bags4\source\repos\valentine\valentine\bin\Release\net8.0-windows\app.publish\ULControls.pdb

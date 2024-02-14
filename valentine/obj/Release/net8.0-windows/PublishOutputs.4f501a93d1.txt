@@ -1,0 +1,13 @@
+C:\Users\bags4\source\valentine.exe
+C:\Users\bags4\source\valentine.dll
+C:\Users\bags4\source\valentine.deps.json
+C:\Users\bags4\source\valentine.runtimeconfig.json
+C:\Users\bags4\source\valentine.pdb
+C:\Users\bags4\source\System.Data.SqlClient.dll
+C:\Users\bags4\source\runtimes\win-arm64\native\sni.dll
+C:\Users\bags4\source\runtimes\win-x64\native\sni.dll
+C:\Users\bags4\source\runtimes\win-x86\native\sni.dll
+C:\Users\bags4\source\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bags4\source\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bags4\source\ULControls.dll
+C:\Users\bags4\source\ULControls.pdb

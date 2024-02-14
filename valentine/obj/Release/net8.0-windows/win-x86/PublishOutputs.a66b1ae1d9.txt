@@ -1,0 +1,9 @@
+E:\application\valentine.pdb
+E:\application\D3DCompiler_47_cor3.dll
+E:\application\PenImc_cor3.dll
+E:\application\PresentationNative_cor3.dll
+E:\application\vcruntime140_cor3.dll
+E:\application\wpfgfx_cor3.dll
+E:\application\sni.dll
+E:\application\ULControls.pdb
+E:\application\valentine.exe

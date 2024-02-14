@@ -1,0 +1,9 @@
+E:\ValentineDay\valentine.pdb
+E:\ValentineDay\D3DCompiler_47_cor3.dll
+E:\ValentineDay\PenImc_cor3.dll
+E:\ValentineDay\PresentationNative_cor3.dll
+E:\ValentineDay\vcruntime140_cor3.dll
+E:\ValentineDay\wpfgfx_cor3.dll
+E:\ValentineDay\sni.dll
+E:\ValentineDay\ULControls.pdb
+E:\ValentineDay\valentine.exe
